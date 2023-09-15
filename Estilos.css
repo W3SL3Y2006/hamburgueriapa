@@ -1,18 +1,42 @@
 body {
-    background-color: rgb(59, 28, 6);
+    background-color: rgb(134, 58, 4);
     color: beige;
     font-family: cursive;
     font-size: 16px;
+    margin-right: 15rem;
+    margin-left: 15rem;
+    text-align: center;
+   
 }
 
 .cabecalho {
-    background-color: darkgoldenrod;
-    color: beige
+    color: beige;
+    height: 5rem;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
    
 }
 
 .subtitulo {
-color: rgb(247, 183, 22);
+color: rgb(241, 241, 21);
 font-family: 'Times New Roman', Times, serif;
+font-size:3rem;
+font-family: cursive;
+text-align: center;
 
+
+}
+
+.titulo {
+color: yellow;
+font-size: 3rem;
+text-align: center;
+
+}
+
+.subtitulo2 {
+    font-size: 1.25rem;
+    text-align: justify;
 }
